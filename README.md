@@ -89,8 +89,21 @@ Chaque produit est soigneusement sélectionné pour répondre aux goûts variés
 - *PHP/MySQL* : Gestion des données et dynamique du site.  
 
 ---
- 
+ ## Accéder au tableau de bord WordPress :
+- URL d'accès : [http://fashionbloom.liveblog365.com/wp-admin/index.php](http://fashionbloom.liveblog365.com/wp-admin/index.php)
+- Identifiants administrateur :
+  - *Nom d'utilisateur* : admin
+  - *Mot de passe* : tl#2NdmZs2
 
 ---
+
+## Notes supplémentaires
+
+- *Thème utilisé* : Astra
+- *Configuration PHP et MySQL* :
+  - Assurez-vous que votre version de PHP et MySQL est compatible avec WordPress 6.7.1.
+  - *Utilisateur de la base de données* : root
+  - *Mot de passe de la base de données* :vide
+  - Vérifiez que les paramètres de connexion à la base de données sont correctement configurés dans le fichier wp-config.php du site.
 
 Merci de consulter le site Fashion Bloom pour découvrir un univers de mode à portée de clic !
